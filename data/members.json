@@ -1,0 +1,37 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "chapter": "Salem",
+      "role": "President",
+      "joinDate": "2023-01-15",
+      "email": "john@example.com",
+      "phone": "+91 9876543210",
+      "occupation": "Software Engineer",
+      "avatar": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "chapter": "Velur",
+      "role": "President",
+      "joinDate": "2023-02-20",
+      "email": "jane@example.com",
+      "phone": "+91 9876543211",
+      "occupation": "Teacher",
+      "avatar": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "chapter": "Elampillai",
+      "role": "President",
+      "joinDate": "2023-03-10",
+      "email": "mike@example.com",
+      "phone": "+91 9876543212",
+      "occupation": "Environmental Scientist",
+      "avatar": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chapters": [
+    {
+      "id": "salem",
+      "name": "Salem",
+      "totalEvents": 12,
+      "totalBeneficiaries": 1500,
+      "totalMembers": 45,
+      "totalFunds": 250000,
+      "location": "Salem, Tamil Nadu",
+      "established": "2020",
+      "president": "John Doe",
+      "contact": "+91 9876543210",
+      "email": "salem@jciroyals.org",
+      "description": "JCI Royals Salem is committed to creating positive change in our community through various social initiatives and leadership development programs.",
+      "image": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg",
+      "address": "123 Main Street, Salem, Tamil Nadu - 636001"
+    },
+    {
+      "id": "velur",
+      "name": "Velur",
+      "totalEvents": 8,
+      "totalBeneficiaries": 900,
+      "totalMembers": 32,
+      "totalFunds": 180000,
+      "location": "Velur, Tamil Nadu",
+      "established": "2021",
+      "president": "Jane Smith",
+      "contact": "+91 9876543211",
+      "email": "velur@jciroyals.org",
+      "description": "JCI Royals Velur focuses on rural development and educational initiatives to empower the local community.",
+      "image": "https://images.pexels.com/photos/6238022/pexels-photo-6238022.jpeg",
+      "address": "456 Village Road, Velur, Tamil Nadu - 636112"
+    },
+    {
+      "id": "elampillai",
+      "name": "Elampillai",
+      "totalEvents": 6,
+      "totalBeneficiaries": 600,
+      "totalMembers": 28,
+      "totalFunds": 120000,
+      "location": "Elampillai, Tamil Nadu",
+      "established": "2022",
+      "president": "Mike Johnson",
+      "contact": "+91 9876543212",
+      "email": "elampillai@jciroyals.org",
+      "description": "JCI Royals Elampillai is dedicated to environmental conservation and sustainable development projects.",
+      "image": "https://images.pexels.com/photos/6994982/pexels-photo-6994982.jpeg",
+      "address": "789 Green Avenue, Elampillai, Tamil Nadu - 636302"
+    }
+  ]
+}

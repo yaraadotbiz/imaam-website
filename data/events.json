@@ -1,0 +1,89 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Community Health Camp",
+      "description": "Free health checkup and medical consultation for rural communities. Our team of volunteer doctors and nurses provided comprehensive health services.",
+      "date": "2024-03-15",
+      "chapter": "Salem",
+      "images": [
+        "https://images.pexels.com/photos/7089020/pexels-photo-7089020.jpeg",
+        "https://images.pexels.com/photos/6303761/pexels-photo-6303761.jpeg"
+      ],
+      "participants": 25,
+      "beneficiaries": 200,
+      "funds": 15000,
+      "status": "completed",
+      "location": "Rural Salem District",
+      "category": "Community Service"
+    },
+    {
+      "id": 2,
+      "title": "Educational Material Drive",
+      "description": "Distribution of books, stationery, and educational materials to underprivileged children in government schools.",
+      "date": "2024-04-20",
+      "chapter": "Velur",
+      "images": [
+        "https://images.pexels.com/photos/8500452/pexels-photo-8500452.jpeg",
+        "https://images.pexels.com/photos/6238022/pexels-photo-6238022.jpeg"
+      ],
+      "participants": 18,
+      "beneficiaries": 150,
+      "funds": 12000,
+      "status": "completed",
+      "location": "Government Schools, Velur",
+      "category": "Education"
+    },
+    {
+      "id": 3,
+      "title": "Environmental Cleanup Drive",
+      "description": "Large-scale cleanup of public spaces and plastic waste collection to promote environmental consciousness.",
+      "date": "2024-05-10",
+      "chapter": "Elampillai",
+      "images": [
+        "https://images.pexels.com/photos/6994982/pexels-photo-6994982.jpeg",
+        "https://images.pexels.com/photos/9324307/pexels-photo-9324307.jpeg"
+      ],
+      "participants": 30,
+      "beneficiaries": 500,
+      "funds": 8000,
+      "status": "completed",
+      "location": "Public Parks, Elampillai",
+      "category": "Environment"
+    },
+    {
+      "id": 4,
+      "title": "Youth Leadership Summit",
+      "description": "Annual leadership development program for young professionals and students to build leadership skills.",
+      "date": "2024-06-15",
+      "chapter": "Salem",
+      "images": [
+        "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg",
+        "https://images.pexels.com/photos/7096/people-coffee-tea-meeting.jpg"
+      ],
+      "participants": 40,
+      "beneficiaries": 100,
+      "funds": 25000,
+      "status": "upcoming",
+      "location": "Salem Convention Center",
+      "category": "Leadership"
+    },
+    {
+      "id": 5,
+      "title": "Senior Citizens Care Program",
+      "description": "Monthly visits to old age homes with medical checkups, entertainment programs, and care packages.",
+      "date": "2024-07-01",
+      "chapter": "Velur",
+      "images": [
+        "https://images.pexels.com/photos/7551659/pexels-photo-7551659.jpeg",
+        "https://images.pexels.com/photos/8500443/pexels-photo-8500443.jpeg"
+      ],
+      "participants": 15,
+      "beneficiaries": 80,
+      "funds": 10000,
+      "status": "upcoming",
+      "location": "Various Old Age Homes",
+      "category": "Community Service"
+    }
+  ]
+}
